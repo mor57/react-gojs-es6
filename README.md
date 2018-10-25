@@ -1,8 +1,5 @@
-[![Build Status](https://github.com/mor57/react-gojs-example-es6.svg?branch=master)](https://github.com/mor57/react-gojs-example-es6)
-
 # react-gojs-example-es6
  
-
 You can try the live demo [here](http://diagram.doraan.ir).
 
 ## Requirements
