@@ -1,0 +1,16 @@
+.myDiagram {
+    margin-left: 200px;
+    margin-top: 150px;
+    float: left;
+    width: 97%;
+    /* width: 70%; */
+    flex: 1 1 auto;
+    margin: auto;
+}
+.SelectionDetails{
+    position: absolute !important;
+}
+canvas {
+    outline: none;
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0); /* mobile webkit */
+}

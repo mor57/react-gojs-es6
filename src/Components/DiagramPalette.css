@@ -1,0 +1,20 @@
+/* .centered-container {
+    text-align: center;
+}
+
+.inline-element {
+    display: inline-block;
+} */
+
+.divPallete {
+    position: absolute;
+    margin-top: 5px;
+    padding-top: 80px;
+    width: 250px;
+    height: 450px;
+    margin-left: 5px;
+    flex-grow: 1;
+    border: solid 1px black;
+    z-index: 3;
+    background-color: white;
+}
