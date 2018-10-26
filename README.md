@@ -1,4 +1,4 @@
-# react-gojs-example-es6
+# react-gojs-es6
  
 You can try the live demo [here](http://diagram.doraan.ir).
 
