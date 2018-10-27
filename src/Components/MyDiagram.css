@@ -1,13 +1,13 @@
 .myDiagram {
     margin-left: 200px;
-    margin-top: 150px;
+    margin-top: 200px;
     float: left;
     width: 97%;
     /* width: 70%; */
     flex: 1 1 auto;
     margin: auto;
 }
-.SelectionDetails{
+.SelectionDetails {
     position: absolute !important;
 }
 canvas {
