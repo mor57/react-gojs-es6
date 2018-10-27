@@ -13,6 +13,8 @@
     width: 250px;
     height: 450px;
     margin-left: 5px;
+    margin-top: 40px;
+
     flex-grow: 1;
     border: solid 1px black;
     z-index: 3;
